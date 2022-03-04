@@ -1,2 +1,2 @@
-# Database-System-Implementation
-First commit for DB Implementation.
+# Database-System-Implementation.
+This file guides on project's file system and implmenetation details

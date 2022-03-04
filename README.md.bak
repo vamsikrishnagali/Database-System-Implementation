@@ -1,3 +1,2 @@
 # Database-System-Implementation
-•	Implemented a database system using C++ that can store and retrieve records from the disk using the heap, Array and B+ trees
-•	Implemented a query optimizer and compiler that performs basic data operations such as inserting, deleting, and retrieving a record from the disk
+First commit for DB Implementation.
