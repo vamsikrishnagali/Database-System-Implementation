@@ -2,13 +2,6 @@
 ==================
 ### Database System Implementation
 
-**Members:**
-
-Raghuveer Sharma Saripalli(UFID : 50946752)
-
-Madhuri Uppu(UFID : 43029778)
-
-
 **Objective:** The goal of this project is to implement Sorted File Database Implementation in part 2.
 
 **Running the project:**
